@@ -1,4 +1,4 @@
-# al-folio
+Personal portfolio built using al-folio
 
 ## License
 
